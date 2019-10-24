@@ -1,1 +1,9 @@
+# General Settings
+title: Sibelius Peng
+email: l33peng@uwaterloo.ca
+description: "Welcome to Sibelius Peng's Fantasy!"
+baseurl: ""
+url: ""
+
+
 theme: jekyll-theme-architect
