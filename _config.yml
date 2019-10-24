@@ -23,7 +23,7 @@ plugins:
 url: ''
 baseurl: ''
 title: 'Sibelius Peng'
-description: 'SP\'s Fantasy'
+description: 'SP Fantasy'
 permalink: pretty
 logo: "/favicon.ico"
 
