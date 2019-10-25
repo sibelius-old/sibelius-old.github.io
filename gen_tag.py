@@ -41,14 +41,18 @@ total_tags = set(total_tags)
 old_tags = glob.glob(tag_dir + '*.md')
 for tag in old_tags:
     os.remove(tag)
-    
+
 if not os.path.exists(tag_dir):
     os.makedirs(tag_dir)
 
 for tag in total_tags:
     tag_filename = tag_dir + tag + '.md'
     f = open(tag_filename, 'a')
-    write_str = '---\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\nrobots: noindex\n---\n'
+    write_str = """---\ntag: {}
+feature_text: |
+    <h2>Tag: {}</h2>
+---
+""".format(tag, tag)
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())

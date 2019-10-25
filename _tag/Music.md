@@ -1,5 +1,5 @@
 ---
-title: "Tag: Music"
 tag: Music
-robots: noindex
+feature_text: |
+    <h2>Tag: Music</h2>
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tag: Plan"
 tag: Plan
-robots: noindex
+feature_text: |
+    <h2>Tag: Plan</h2>
 ---

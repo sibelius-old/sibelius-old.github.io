@@ -1,5 +1,5 @@
 ---
-title: "Tag: Physics"
 tag: Physics
-robots: noindex
+feature_text: |
+    <h2>Tag: Physics</h2>
 ---

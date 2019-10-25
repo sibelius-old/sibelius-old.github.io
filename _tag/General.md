@@ -1,5 +1,5 @@
 ---
-title: "Tag: General"
 tag: General
-robots: noindex
+feature_text: |
+    <h2>Tag: General</h2>
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tag: Book-Review"
 tag: Book-Review
-robots: noindex
+feature_text: |
+    <h2>Tag: Book-Review</h2>
 ---
