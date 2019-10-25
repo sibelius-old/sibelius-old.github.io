@@ -63,7 +63,6 @@ collections:
     output: true
     description: "My thoughts and ideas"
   tag:
-    title: Tags
     output: true
 
 
