@@ -1,5 +1,5 @@
 ---
-tag: CS
+tag: cs
 feature_text: |
-    <h2>Tag: CS</h2>
+    <h2>Tag: cs</h2>
 ---
