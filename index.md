@@ -5,6 +5,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
   ## Welcome to SP's Fantasy
 ---
+{% include site-search.html %}
 
 - Institution - University of Waterloo
   - Career - Undergraduate
@@ -15,3 +16,5 @@ feature_text: |
       - Minor - Applied Mathematics Minor
       - Minor - Statistics Minor
       - Minor - Music Minor
+
+{% include site-form.html %}
