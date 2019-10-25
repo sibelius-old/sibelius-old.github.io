@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Physics Learning Plan
-categories:
-- Plan
-- Learning Notes
-- Physics
+tags: Plan Learning-Notes Physics
 feature_image: "https://picsum.photos/2560/600?image=666"
 ---
 

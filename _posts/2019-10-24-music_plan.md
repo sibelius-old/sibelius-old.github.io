@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Music Learning Plan
-categories:
-- Plan
-- Learning Notes
-- Music
+tags: Plan Learning-Notes Music
 feature_image: "https://picsum.photos/2560/600?image=999"
 ---
 

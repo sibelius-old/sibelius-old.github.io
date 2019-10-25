@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Hands on ML, 2nd edition
-categories:
-- Book Review
-- Learning Notes
-- Research
+tags: Book-Review Learning-Notes Research
 feature_image: "https://picsum.photos/2560/600?image=873"
 ---
 
