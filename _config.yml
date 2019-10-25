@@ -62,6 +62,8 @@ collections:
     title: Posts
     output: true
     description: "My thoughts and ideas"
+  tag:
+      output: true
 
 # Site favicons
 favicons:
