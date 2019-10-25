@@ -27,7 +27,9 @@ description: 'SP Fantasy'
 permalink: pretty
 logo: "/favicon.ico"
 email: "plc1101@163.com"
-disqus: true
+
+site:
+  disqus: true
 
 page:
   comments: true
