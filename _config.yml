@@ -64,7 +64,14 @@ collections:
     description: "My thoughts and ideas"
   tag:
     output: true
+    permalink: /tag/:name/
 
+defaults:
+- scope:
+    path: ''
+    type: tag
+  values:
+    layout: tag
 
 # Site favicons
 favicons:
