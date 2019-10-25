@@ -35,12 +35,14 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
 - title: Blog
   url: /blog/
+- title: Search
+  url: /search/
 - title: Notes
   url: https://sibelius-6.github.io/courses/
+- title: About
+  url: /about/
 
 # Footer nav
 navigation_footer:
@@ -53,4 +55,3 @@ collections:
     title: Posts
     output: true
     description: "My thoughts and ideas"
-    
