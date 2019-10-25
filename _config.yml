@@ -65,6 +65,7 @@ collections:
 favicons:
   16: '/favicon.ico'
   32: '/favicon.ico'
+  64: '/favicon.ico'
   96: '/favicon.ico'
   120: '/favicon.ico'
   144: '/favicon.ico'
