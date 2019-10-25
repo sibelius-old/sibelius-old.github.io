@@ -15,5 +15,3 @@ feature_text: |
       - Minor - Applied Mathematics Minor
       - Minor - Statistics Minor
       - Minor - Music Minor
-
-{% include site-form.html %}
