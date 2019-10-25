@@ -28,11 +28,8 @@ permalink: pretty
 logo: "/favicon.ico"
 email: "plc1101@163.com"
 
-site:
-  disqus: true
 
-page:
-  comments: true
+disqus: "alembic-1"
 
 
 # Pagination
