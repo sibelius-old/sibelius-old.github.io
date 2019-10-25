@@ -28,8 +28,7 @@ permalink: pretty
 logo: "/logo.jpg"
 email: "plc1101@163.com"
 
-page:
-  aside: true
+page.aside: true
 
 
 # Pagination
