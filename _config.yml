@@ -28,8 +28,10 @@ permalink: pretty
 logo: "/logo.jpg"
 email: "plc1101@163.com"
 
-page.aside: true
-
+contact:
+  email:      plc1101@163.com
+  github:     https://github.com/Sibelius-6
+  linkedin:   https://www.linkedin.com/in/sibelius-peng-595b27163/
 
 # Pagination
 paginate: 5
