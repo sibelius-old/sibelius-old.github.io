@@ -1,8 +1,11 @@
 <footer class="footer">
   <div class="container">
     {% include nav-footer.html %}
+    <div class="typeset" style="text-align:center">
+        Last modified on {{ page.last_modified_at }}
+    </div>
     <div class="copyright  typeset">
-      <small style="color:white;">&copy; {{ site.author }} {{ site.time | date: '%Y' }}</small>
+      <small style="color:white;">Copyright &copy; <a href="/">{{ site.author }}</a> {{ site.time | date: '%Y' }}</small>
     </div>
   </div>
 </footer>
