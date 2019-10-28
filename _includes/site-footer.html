@@ -2,7 +2,7 @@
   <div class="container">
     {% include nav-footer.html %}
     <div class="typeset" style="text-align:center">
-        Last modified on {{ page.last_modified_at }}
+        Last modified on {{ page.last_modified_at %d-%b-%Y}}
     </div>
     <div class="copyright  typeset">
       <small style="color:white;">Copyright &copy; <a href="/">{{ site.author }}</a> {{ site.time | date: '%Y' }}</small>
