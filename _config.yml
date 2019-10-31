@@ -53,6 +53,8 @@ navigation_header:
   url: https://sibelius-notes.github.io/
 - title: About
   url: /about/
+- title: To-Do
+  url: /todo/
 
 # Footer nav
 navigation_footer:
