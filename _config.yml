@@ -50,7 +50,7 @@ navigation_header:
 - title: Search
   url: /search/
 - title: Notes
-  url: notes.sibeliusp.com
+  url: https://notes.sibeliusp.com
 - title: About
   url: /about/
 - title: To-Do
