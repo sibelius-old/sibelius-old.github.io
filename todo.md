@@ -16,3 +16,7 @@ feature_text: |
 - chem 120? 
 - hist 239
 - phil 271 (math and phil)
+
+## book
+
+* [intro to game theory](https://www.economics.utoronto.ca/osborne/igt/index.html)
