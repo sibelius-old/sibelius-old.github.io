@@ -20,3 +20,8 @@ feature_text: |
 ## book
 
 * [intro to game theory](https://www.economics.utoronto.ca/osborne/igt/index.html)
+
+### blogging
+
+- [the book on writing](https://www.amazon.com/Book-Writing-Ultimate-Guide-Well/dp/0989236706/)
+- [tech blogging](https://pragprog.com/book/actb/technical-blogging)
