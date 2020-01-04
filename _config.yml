@@ -49,12 +49,9 @@ navigation_header:
   url: /blog/
 - title: Search
   url: /search/
-- title: Notes
-  url: https://notes.sibeliusp.com
-- title: About
-  url: /about/
-- title: To-Do
-  url: /todo/
+- title: Contact
+  url: /contact/
+
 
 # Footer nav
 navigation_footer:
