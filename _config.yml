@@ -26,7 +26,7 @@ plugins:
 url: ''
 baseurl: ''
 title: 'Sibelius Peng'
-description: 'SP Fantasy'
+description: 'Blog'
 permalink: pretty
 logo: "/logo.jpg"
 email: "plc1101@163.com"
@@ -55,7 +55,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Back to home
   url: "./#top"
 
 
