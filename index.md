@@ -11,3 +11,5 @@ Hi, I am Sibelius Peng, a (continuing) fourth-year undergraduate student. Welcom
 I am a mathematician, musician, [musimathician](http://www.musimathics.com/), computer scientist, badminton player...
 
 Want to find the interplay between different subjects? Then you are in the right place! Here you can see some of my inspirations and ideas. Enjoy!
+
+Also, check my [lecture notes](https://notes.sibeliusp.com) and my [home page](https://sibeliusp.com).
