@@ -5,6 +5,8 @@ tags: cook noodles
 feature_image: "https://picsum.photos/2560/600?image=686"
 ---
 
+<a href="javascript:;" class="showimg"><img src="http://placehold.it/1000x380" alt=""></a><span></span>
+
 Now I only have two things left... Let me give myself a little break.
 
 [xiangha.com](https://www.xiangha.com/caipu/91521660.html) is the original source I found to make this dish.
