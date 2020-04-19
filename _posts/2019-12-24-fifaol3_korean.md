@@ -34,7 +34,3 @@ The following screenshots are from the fifaol3 game (国服，tencent) and [OL3V
 {% include player-image.html name="郭泰辉CC" %} CC。
 
 {% include player-image.html name="廉基勋" %} 队长赛季。
-
-
-
-</div>
