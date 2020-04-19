@@ -13,13 +13,20 @@ Here is a summary of Korean players in FIFAOL3. Though we all know that (from wi
 Son Heung-Min now is really the top Asian goalscorer.
 
 The following screenshots are from the fifaol3 game (国服，tencent) and [OL3VS](https://www.ol3vs.com/).
+<div class="nodec">
 ## 前锋
 - {% include player-image.html name="孙兴慜" %} 19。 90 能力值. 双脚5星花式，ZD非常好用。
 - {% include player-image.html name="孙兴慜TB" %} TB。 86 能力值
 - {% include player-image.html name="李东国LP" %} LP。 非常好用的前锋，头球很强。人送外号狮子王。
+- {% include player-image.html name="李东国C" %} 队长赛季。 非常好用的前锋，头球很强。人送外号狮子王。
 - {% include player-image.html name="车范根" %} 传奇。 国服无
 - {% include player-image.html name="车范根CC" %} CC。 国服无
 - {% include player-image.html name="朴智星" %} 曼联。 国服无
 
 ## 后卫
 - {% include player-image.html name="郭泰辉CC" %} CC。
+- {% include player-image.html name="廉基勋" %} 队长赛季。
+
+
+
+</div>
