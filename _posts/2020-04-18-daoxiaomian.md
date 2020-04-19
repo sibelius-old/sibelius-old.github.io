@@ -5,7 +5,7 @@ tags: cook noodles
 feature_image: "https://picsum.photos/2560/600?image=686"
 ---
 
-<a href="javascript:;" class="showimg"><img src="http://placehold.it/1000x380" alt=""></a><span></span>
+<a href="javascript:;" class="showimg"><img src="http://placehold.it/1000x380" alt=""></a><span class='afterimg'></span>
 
 Now I only have two things left... Let me give myself a little break.
 
