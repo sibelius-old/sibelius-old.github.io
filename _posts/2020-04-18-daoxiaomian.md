@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Daoxiao Noodles
-tags: cook
+tags: cook noodles
 feature_image: "https://picsum.photos/2560/600?image=686"
 ---
 
