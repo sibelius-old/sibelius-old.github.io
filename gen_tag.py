@@ -51,6 +51,7 @@ for tag in total_tags:
     write_str = """---\ntag: {}
 feature_text: |
     <h2>Tag: {}</h2>
+feature_image: feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 """.format(tag, tag)
     f.write(write_str)
