@@ -54,9 +54,9 @@ navigation_header:
 
 
 # Footer nav
-#navigation_footer:
-#- title: Back to home
-#  url: "./#top"
+navigation_footer:
+- title: Back to home
+  url: "/"
 
 
 defaults:
