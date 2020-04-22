@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Short Video Clip of Shadow Fight 3
-tags: shadowfight3
+tags: shadowfight3 game
 feature_image: "http://shadowfight3.com/images/uploads/7/e7829e67b8bc133566f49350a75086fa.png"
 ---
 

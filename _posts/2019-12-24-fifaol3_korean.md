@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FIFAOL3 Korea
-tags: fifaol3
+tags: fifaol3 game
 feature_image: "https://ossweb-img.qq.com/upload/webplat/info/fifa/20200325/60363374209438.jpg"
 ---
 
