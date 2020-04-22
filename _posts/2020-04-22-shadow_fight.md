@@ -7,4 +7,6 @@ feature_image: "http://shadowfight3.com/images/uploads/7/e7829e67b8bc133566f4935
 
 I actually invested around 50 dollars... but didn't get good things... Below is an example: if you don't have enough stability, you won't win...
 
-{% include video.html path="https://www.student.cs.uwaterloo.ca/~l33peng/RPReplay_Final1587582318.mov" %}
+{% include video.html path="/video/replay123687687134.mp4" %}
+
+Click [here](https://www.student.cs.uwaterloo.ca/~l33peng/RPReplay_Final1587582318.mov) to download the original video.
