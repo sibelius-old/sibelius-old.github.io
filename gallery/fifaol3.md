@@ -1,5 +1,5 @@
 ---
 title: FIFA ONLINE 3
-layout: page
+layout: gallery
+folder: /album/fifaol3
 ---
-{% include image-gallery.html folder="/album/fifaol3" %}

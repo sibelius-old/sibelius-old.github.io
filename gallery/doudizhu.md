@@ -1,5 +1,8 @@
 ---
 title: Dou Dizhu
-layout: page
+layout: gallery
+folder: /album/doudizhu
 ---
+{% comment %}
 {% include image-gallery.html folder="/album/doudizhu" %}
+{% endcomment %}
