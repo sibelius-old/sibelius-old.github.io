@@ -38,7 +38,7 @@
 body {
   background-color: #eee;
   width: 90%;
-  max-width: 2100px;
+  max-width: 1500px;
   margin: 0 auto;
 }
 .hello {
@@ -194,7 +194,7 @@ body {
     {% include site-icons.svg %}
     {% include site-header.html %}
 
-<h2>{{ page.title }}</h2>
+<!--h2>{{ page.title }}</h2-->
 <div class="gallery" id="gallery">
 {% for file in site.static_files %}
 {% if file.path contains page.folder %}
