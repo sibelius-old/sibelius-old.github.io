@@ -38,6 +38,61 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.14/js/lightgallery.min.js" integrity="sha256-Bdl34cNKGW5tG973mPvbnWve2FGKfx2zjz23g8jgShM=" crossorigin="anonymous"></script>
 
 <!--link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightgallery/1.6.14/css/lightgallery.min.css" integrity="sha256-8rfHbJr+ju3Oc099jFJMR1xAPu8CTPHU8uP5J3X/VAY=" crossorigin="anonymous" /-->
+<style>
+body {
+  background-color: #eee;
+  width: 90%;
+  max-width: 1201px;
+  margin: 0 auto;
+}
+#aniimated-thumbnials {
+   /* Prevent vertical gaps */
+   line-height: 0;
+
+   -webkit-column-count: 5;
+   -webkit-column-gap:   0px;
+   -moz-column-count:    5;
+   -moz-column-gap:      0px;
+   column-count:         5;
+   column-gap:           0px;
+}
+
+#aniimated-thumbnials img {
+  /* Just in case there are inline attributes */
+  margin-top: 8px;
+  width: 100% !important;
+  height: auto !important;
+}
+
+@media (max-width: 1200px) {
+  #aniimated-thumbnials {
+  -moz-column-count:    4;
+  -webkit-column-count: 4;
+  column-count:         4;
+  }
+}
+@media (max-width: 1000px) {
+  #aniimated-thumbnials {
+  -moz-column-count:    3;
+  -webkit-column-count: 3;
+  column-count:         3;
+  }
+}
+@media (max-width: 800px) {
+  #aniimated-thumbnials {
+  -moz-column-count:    2;
+  -webkit-column-count: 2;
+  column-count:         2;
+  }
+}
+@media (max-width: 400px) {
+  #aniimated-thumbnials {
+  -moz-column-count:    1;
+  -webkit-column-count: 1;
+  column-count:         1;
+  }
+}
+</style>
 </head>
 
 <body>
