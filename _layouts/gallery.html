@@ -1,6 +1,39 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- General meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% if page.indexing == false %}
+      <meta name="robots" content="noindex">
+    {% endif %}
+
+    {% if page.collectionpage %}
+      {% seo title=false %}
+
+      {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
+      <title>{{ collectiondata.title }} - {{ site.title }}</title>
+      <meta property="og:title" content="{{ collectiondata.title }}">
+      <meta name="description" content="{{ collectiondata.description }}">
+      <meta property="og:description" content="{{ collectiondata.description }}">
+    {% else %}
+      {% seo %}
+    {% endif %}
+
+    <link rel="manifest" href="{{ "/manifest.json" | relative_url }}">
+    <meta name="theme-color" content="{{ site.manifest.theme_color | default: '#242e2b' }}"/>
+
+    {% if site.css_inline == true %}
+      {% include site-styles.html %}
+    {% else %}
+      <link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
+    {% endif %}
+
+    {% if site.favicons or site.avatarurl %}{% include site-favicons.html %}{% endif %}
+
+    {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
+
+{% include site-before-start.html %}
 <style>
 body {
   background-color: #eee;
@@ -152,9 +185,12 @@ body {
 }
 
 </style>
+</head>
 
-<main class="main container">
-<article class="content  typeset">
+<body>
+    {% include site-icons.svg %}
+    {% include site-header.html %}
+
 <h2>{{ page.title }}</h2>
 <div class="gallery" id="gallery">
 {% for file in site.static_files %}
@@ -165,8 +201,7 @@ body {
 {% endfor %}
 </div>
 {{ content }}
-</article>
-</main>
+
 
 <script>
 var gallery = document.querySelector('#gallery');
@@ -203,3 +238,10 @@ gallery.querySelectorAll('.gallery-item').forEach(function (item) {
 });
 
 </script>
+
+{% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
+{% include site-footer.html %}
+
+{% include site-before-end.html %}
+</body>
+</html>
