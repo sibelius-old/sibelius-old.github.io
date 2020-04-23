@@ -1,0 +1,18 @@
+#!/bin/bash
+cd album
+dirs=$(ls -d */)
+
+for d in $dirs
+do
+cd $d
+rm thumb*
+FILES=$(ls *)
+for i in $FILES
+do
+convert -thumbnail 200 $i thumb.$i
+done
+cd ..
+echo "done $d"
+done
+
+cd ..
