@@ -12,7 +12,7 @@
       {% seo title=false %}
 
       {% assign collectiondata = site.collections | where: "label", page.collectionpage | first %}
-      <title>{{ collectiondata.title }} - {{ site.title }}</title>
+      <title>{{ collectiondata.title }} Gallery - {{ site.title }}</title>
       <meta property="og:title" content="{{ collectiondata.title }}">
       <meta name="description" content="{{ collectiondata.description }}">
       <meta property="og:description" content="{{ collectiondata.description }}">
@@ -113,10 +113,12 @@ div.gallery:hover {
     {% include site-icons.svg %}
     {% include site-header.html %}
 
+{{ content }}
+
 <div id="aniimated-thumbnials">
 {% for file in site.static_files %}{% unless file.path contains "thumb." %}{% if file.path contains page.folder %}{% assign filepath = file.path | relative_url %}{% assign thumbname = "thumb." | append: file.basename %}{% assign thumbpath = filepath | replace: file.basename, thumbname %}<div class="gallery"><a href="{{ filepath }}" data-lightbox="{{ page.folder }}" data-title="{{ file.basename }}"><img src="{{ thumbpath }}" /></a></div>{% endif %}{% endunless %}{% endfor %}
 </div>
-{{ content }}
+
 
 {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 {% include site-footer.html %}
