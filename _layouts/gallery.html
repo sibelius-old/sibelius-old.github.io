@@ -100,6 +100,10 @@ div.gallery {
   margin-bottom: 25px;
 }
 
+div.gallery:hover {
+    -moz-box-shadow: 0 4px 12px rgba(0,0,0,.3);
+    -webkit-box-shadow: 0 4px 12px rgba(0,0,0,.3);
+}
 
 </style>
 </head>
@@ -109,12 +113,13 @@ div.gallery {
     {% include site-header.html %}
 
 <div id="aniimated-thumbnials">
-{% for file in site.static_files %}{% unless file.path contains "thumb." %}{% if file.path contains page.folder %}{% assign filepath = file.path | relative_url %}{% assign thumbname = "thumb." | append: file.basename %}{% assign thumbpath = filepath | replace: file.basename, thumbname %}<div class="gallery"><a href="{{ filepath }}"><img src="{{ thumbpath }}" /></a></div>{% endif %}{% endunless %}{% endfor %}
+{% for file in site.static_files %}{% unless file.path contains "thumb." %}{% if file.path contains page.folder %}{% assign filepath = file.path | relative_url %}{% assign thumbname = "thumb." | append: file.basename %}{% assign thumbpath = filepath | replace: file.basename, thumbname %}<div class="gallery"><a href="{{ filepath }}" data-lightbox="{{ page.folder }}" data-title="{{ file.basename }}"><img src="{{ thumbpath }}" /></a></div>{% endif %}{% endunless %}{% endfor %}
 </div>
 {{ content }}
 
 {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 {% include site-footer.html %}
+<script src="/assets/lightbox/src/js/lightbox.js"></script>
 
 </body>
 </html>
