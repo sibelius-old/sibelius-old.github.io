@@ -157,18 +157,12 @@ body {
 <article class="content  typeset">
 <h2>{{ page.title }}</h2>
 <div class="gallery" id="gallery">
-<div class="gallery-item">
-    <div class="content"><img src="https://source.unsplash.com/random/?tech,care" alt=""></div>
-</div>
 {% for file in site.static_files %}
 {% if file.path contains page.folder %}
 {% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
-<div class="gallery-item">
-    <div class="content"><img src="{{ file.path | relative_url }}" alt="{{ filename }}"></div>
-</div>
+<div class="gallery-item"><div class="content"><img src="{{ file.path | relative_url }}" alt="{{ filename }}"></div></div>
 {% endif %}
 {% endfor %}
-
 </div>
 {{ content }}
 </article>
