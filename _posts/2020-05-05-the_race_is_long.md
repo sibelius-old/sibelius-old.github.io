@@ -72,4 +72,51 @@ You can buy the book from [Amazon](https://www.amazon.com/Anyway-race-long-Korea
 
 当时不太能理解认哥的节目模式，印象仅仅停留在可以不说敬语。所以因为无法理解节目的内容，看也看不出什么名堂。后来慢慢的了解了节目的模式和架构，了解了每个人的人设和节目的梗，觉得认哥也是个不错的综艺。当然跟rm是截然不同的模式和内核。节目不会刻意煽情，不过我们也能体会到他们7个人的感情和友谊，即使他们节目中经常开玩笑。
 
-很多人第一眼看姜虎东觉得他很闹腾，
+很多人第一眼看姜虎东觉得他很闹腾，但他确实很闹腾，不过我们也能感受到他做节目的用心和认真。这也是他为什么被称为国民MC的理由。相比刘在石，同为国民MC，节目中也有谈到他们之间的不同。刘在石会照顾到每个人，而姜虎东会拼命给状态好的人抛梗让他接，从而达到最好的节目效果。罗PD在书中也提到过在211（两天一夜第一季）姜虎东几乎不给李秀根说话的机会，但他强力推荐李秀根，而且说他过几年一定能成为最好的MC的。后来他状态好了，虎东就给他抛过很多梗，现在大家也有目共睹，他在很多地方都发光异彩。不过也有说跟姜虎东一起，有个人罩着他比较好，能把握住他的度，所以这也是秀根是虎东的左膀右臂的理由。。。
+
+这里放个视频：【两天一夜】即兴搞笑大师李寿根的讲堂。可以快进到2:30秒。
+
+<div class="embed-container">
+<iframe src=""//player.bilibili.com/player.html?aid=69543721&bvid=BV12E411X73M&cid=120530417&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
+</div>
+
+可见他的能力有多强了。
+
+### 姜食堂
+
+后来在认哥有个地方提到一个姜食堂的一个梗 *我算个什么*，当时很感动，不过他们调侃的时候也很搞笑hh... 因为认哥拒绝感动，拒绝美谈。。。
+
+<div class="embed-container">
+<iframe src="//player.bilibili.com/player.html?aid=76031638&bvid=BV1SJ41127k3&cid=130056121&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
+</div>
+
+因为圣诞假期也挺无聊的。。我就从姜食堂2开始刷，刷到姜食堂3。这个节目并不是怎么教做菜的。。因为每天的菜品也差不多。更多的是记录他们用心做菜的过程和各种失误hh。后来终于刷到了这个片段，真的让我很感动。
+
+<div class="embed-container">
+<iframe src="//player.bilibili.com/player.html?aid=60004007&bvid=BV1ft411n7zG&cid=104481238&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
+</div>
+
+满屏的211，对于那些211粉简直是太感动了。211承载着他们的回忆，也让视频中的这个粉丝战胜病魔。可见姜虎东给粉丝或者说给社会带来了太多积极的影响了。20年的向日葵，这个称赞真的太有分量了。
+
+最后一集提到了之前新西游记的冰岛之旅。。然后李秀根和殷志源就去冰岛了。节目最后每集大概15分钟左右，在YouTube直接首播。这个节目形式十分有意思。如果你熟悉了姜式的节目，这个 [新西游记外传-去冰岛的三餐](https://www.bilibili.com/video/BV1U441117rd/) 就很有意思，即使只是看他们说说话。。。也是通过这个节目我才知道罗PD的这本书。
+
+其中也有个罗PD打的赌，说YouTube订阅破100w就去月球。。最后粉丝发善心，退订了，然后最后在节目结束前刚好没破100w。。。详情请看[这里](https://www.bilibili.com/video/BV1W7411r7xK/). 他们这个对于这个赌注的态度也可以看出他们的诚意。。真的不是随便说说，专门去咨询相关专家去月球的准备，最后发现真的不可能。。。
+
+我再想提一点。在姜食堂里，pd的剪辑非常照顾每个人。安宰贤没什么话，于是做了很多特效给他，夸他啥的。。后来最后一集他也“反省”说自己话太少了。。rm给每个人的镜头就非常佛系了。。完全看每个人的发挥。毕竟姜食堂和rm的节目性质不一样，受众也不一样。
+
+### 回到这本书
+
+最后附上刘在石访谈罗PD的视频。
+
+<div class="embed-container">
+<iframe src="//player.bilibili.com/player.html?aid=73679821&bvid=BV1UE41187U1&cid=126021304&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
+</div>
+
+我最近才开始看211，所以可能关于211没有太多能说的。不过还有太多想说的节目细节和感动的地方，包括他的最新的实验综艺 *星期五星期五晚上*，里面李昇基的part让人梦回211。还有节目调侃月球梗：
+
+<div class="embed-container">
+<iframe src="//player.bilibili.com/player.html?aid=83094095&bvid=BV1yJ411p7PF&cid=142149627&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
+</div>
+
+虽然tvn很有钱，但是去月球是真的拿不出来。。最后我还是推荐大家看各种罗PD的综艺，里面的剪辑的手法都恰到好处。这也是为什么受人欢迎的理由。最后的最后附上书里的一段话：
+> 好的节目必须满足以下三个条件，才能被创造出来：第一是创新，其次要有趣，最后更要有意义。要创造出会让艺人实际感到痛苦的状况，必须让艺人是真的因为害怕结果而投入福不福的游戏中。
