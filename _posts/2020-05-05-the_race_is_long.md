@@ -118,5 +118,5 @@ You can buy the book from [Amazon](https://www.amazon.com/Anyway-race-long-Korea
 <iframe src="//player.bilibili.com/player.html?aid=83094095&bvid=BV1yJ411p7PF&cid=142149627&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
 </div>
 
-虽然tvn很有钱，但是去月球是真的拿不出来。。最后我还是推荐大家看各种罗PD的综艺，里面的剪辑的手法都恰到好处。这也是为什么受人欢迎的理由。最后的最后附上书里的一段话：
+虽然tvn很有钱，但是去月球的钱是真的拿不出来。。最后我还是推荐大家看各种罗PD的综艺，里面的剪辑的手法都恰到好处。这也是为什么受人欢迎的理由。最后的最后附上书里的一段话：
 > 好的节目必须满足以下三个条件，才能被创造出来：第一是创新，其次要有趣，最后更要有意义。要创造出会让艺人实际感到痛苦的状况，必须让艺人是真的因为害怕结果而投入福不福的游戏中。
