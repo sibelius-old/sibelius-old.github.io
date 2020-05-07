@@ -77,7 +77,7 @@ You can buy the book from [Amazon](https://www.amazon.com/Anyway-race-long-Korea
 这里放个视频：【两天一夜】即兴搞笑大师李寿根的讲堂。可以快进到2:30秒。
 
 <div class="embed-container">
-<iframe src=""//player.bilibili.com/player.html?aid=69543721&bvid=BV12E411X73M&cid=120530417&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=69543721&bvid=BV12E411X73M&cid=120530417&page=1" scrolling="no" border="0" frameborder="true" framespacing="0" allowfullscreen="true" width="700" height="480"> </iframe>
 </div>
 
 可见他的能力有多强了。
