@@ -10,7 +10,6 @@ feature_text: |
 
 {% for t in site.tag %}
     <h5><a href="{{ t.url }}">{{ t.tag }}</a></h5>
-    <br>
 {% endfor %}
 
 </article>
