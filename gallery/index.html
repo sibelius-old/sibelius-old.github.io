@@ -9,8 +9,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 {% assign all = site.html_pages | where: 'layout', 'gallery' %}
 
 {% for a in all %}
-<h5><a href="{{ a.url }}">{{ a.title }}</a></h5>
-<br>
+<a href="{{ a.url }}" class="button hvr-float-shadow">{{ a.title }}</a>
 {% endfor %}
 </div>
 </main>

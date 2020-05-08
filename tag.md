@@ -9,8 +9,7 @@ feature_text: |
 <article class="article  article--page  content  typeset">
 
 {% for t in site.tag %}
-    <h5><a href="{{ t.url }}">{{ t.tag }}</a></h5>
-    <br>
+<a href="{{ t.url }}" class="button hvr-curl-top-left">{{ t.tag }}</a>
 {% endfor %}
 
 </article>
