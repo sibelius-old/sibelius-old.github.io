@@ -48,6 +48,8 @@ navigation_header:
   url: /
 - title: Blog
   url: /blog/
+- title: Tag
+  url: /tag/
 - title: Gallery
   url: /gallery/
 - title: Search
