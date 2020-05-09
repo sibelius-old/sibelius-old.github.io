@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Anyway, the Race Is Long
-tags: Book-Review
+tags: book-review
 feature_image: "/pics/anyway.png"
 ---
 
