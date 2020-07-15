@@ -7,7 +7,7 @@
                 <div class="typeset">
                     <h4><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h4>
                     {% include post-meta.html %}
-                    <span><br/>{{ page.excerpt | truncate: 20 }}</span>
+                    <span><br/>{{ page.excerpt | truncatewords: 10 }}</span>
                 </div>
             </li>
         {% endif %}
@@ -20,7 +20,7 @@
                 <div class="typeset">
                     <h4><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h4>
                     {% include post-meta.html %}
-                    <span><br/>{{ page.excerpt | truncates: 20 }}</span>
+                    <span><br/>{{ page.excerpt | truncatewords: 10 }}</span>
                 </div>
             </li>
         {% endfor %}
